@@ -1,0 +1,2 @@
+class IndividualOrder < ApplicationRecord
+end

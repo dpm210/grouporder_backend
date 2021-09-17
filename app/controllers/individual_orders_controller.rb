@@ -1,0 +1,2 @@
+class IndividualOrdersController < ApplicationController
+end
